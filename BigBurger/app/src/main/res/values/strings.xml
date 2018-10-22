@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Big Burger</string>
+    <string name="total">Total de votre commande :</string>
+    <string name="refresh">Recharger</string>
+</resources>
